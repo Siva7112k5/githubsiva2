@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h4{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    color:white;
+    background-color: black;
+}
